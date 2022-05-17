@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanielAgbeni
-- 👀 I’m interested in Web development 
+- 👀 I’m interested in Web development and artificial intelligece 
 - 🌱 I’m currently learning html, css, javascript and python 
 - 💞️ I’m looking to collaborate on bot automation 
 - 📫 How to reach me via Facebook, twitter, Instagram, discord and WhatsApp
