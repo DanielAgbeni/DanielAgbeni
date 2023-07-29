@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DanielAgbeni
-- 👀 I’m interested in Web development and artificial intelligece 
-- 🌱 I’m currently learning html, css, javascript and python 
-- 💞️ I’m looking to collaborate on bot automation 
-- 📫 How to reach me via Facebook, twitter, Instagram, discord and WhatsApp
+- 👀 Currently a front end web developer 
+- 🌱 I’m currently into html, css, javascript react and react native 
+- 💞️ I’m looking to collaborate with many web developers 
+- 📫 How to reach me via Twitter, Instagram, https://danielagbeni.netlify.app and WhatsApp
 
 <!---
 DanielAgbeni/DanielAgbeni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
