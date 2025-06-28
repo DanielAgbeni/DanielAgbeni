@@ -16,16 +16,13 @@ I bring more than just code — I bring real-world solutions that scale, perform
 
 ### 🧠 Backend
 
-- RESTful APIs with Node.js, Express, MongoDB & PostgreSQL
+- RESTful APIs with Node.js, Express& MongoDB
 - Firebase (Firestore, Auth, Cloud Functions)
 - Webhook integrations (e.g. Paystack) & custom real-time logic
 
 ### 🔧 Core Features I Deliver
 
-- 📍 Real-time location tracking with dynamic map interactions
-- 🎥 Live video streaming using WebRTC & ZEGOCLOUD
 - 💬 Realtime messaging systems with notifications
-- 📲 Offline support & optimized background jobs for mobile apps
 - 🔐 Authentication, RBAC, and secure data flow
 - 🚀 Optimized performance & smooth deployments (Vercel, Render, Firebase)
 
@@ -107,12 +104,6 @@ I'm available for:
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DanielAgbeni&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-### 🧭 "I don't just write code — I build products that work."
-
-Let's build something exceptional together.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DanielAgbeni&icon=2&color=1)](https://visitcount.itsvg.in)
