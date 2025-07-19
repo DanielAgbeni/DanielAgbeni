@@ -32,7 +32,7 @@ I bring more than just code — I bring real-world solutions that scale, perform
 
 <table>
   <tr>
-    <td><a href="https://uploaddoc.vercel.app/" target="_blank"><img src="https://uploaddoc.vercel.app/uploaddoc.png" width="200"/> <br /> UploadDoc</a></td>
+    <td><a href="https://uploaddoc.vercel.app" target="_blank"><img src="https://uploaddoc.vercel.app/icon.png" width="200"/> <br /> UploadDoc</a></td>
     <td>A centralized platform for effortless document handling <br /> Tech Stacks<br />
 <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" alt="MongoDB" />
 <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square" alt="Tailwind Css" />
